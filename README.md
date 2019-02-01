@@ -1,4 +1,4 @@
-# AprendeR-desde-cero
+# AprendeR desde cero
 
 # Descripción
 Se propone un curso introductorio a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en un conjunto de paquetes tales como ggplot2, plotly, dplyr, rmarkdown, entre otros.
