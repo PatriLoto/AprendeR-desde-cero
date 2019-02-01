@@ -15,10 +15,13 @@ Al finalizar el curso, el participante deberá ser capaz de:
 *	Elaborar gráficos utilizando el paquete ggplot2 y plotly.
 *	Manipular de manera básica un conjunto de  datos: captura, limpieza y ordenamiento de datos.
 
-## Equipo de Profesores
+## Instructores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
 * Dra. en Recursos Naturales: **Roxana Noelia Villafañe** 
+
+## Metodología
+Cada encuentro constará de la exposición de contenidos teóricos y luego se realizarán prácticas para aplicar dichos contenidos. El curso tendrá un mínimo de 6 y un máximo de 15 asistentes, para asegurar que los estudiantes puedan tener suficiente interacción con los instructores y otros estudiantes, y de esta manera facilitar el aprendizaje y el trabajo colaborativo.
 
 ## Material Teórico
 **Primer encuentro**: Instalación de R y RStudio. ¿Qué es R? Principales características del lenguaje. Aplicaciones y casos de uso. Entorno de trabajo de Rstudio. Elementos de la sintaxis de R. Tipos de datos: datos atómicos, vectores, matrices, dataframes, factores y listas. Operadores. Estructuras de control: if, while, repeat. Funciones. Scripts en R y flujo de trabajo.
