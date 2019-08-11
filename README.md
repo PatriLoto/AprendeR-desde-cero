@@ -2,7 +2,7 @@
 
 # Descripción
 Se propone un curso introductorio a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en un conjunto de paquetes tales como ggplot2, plotly, dplyr, rmarkdown, entre otros.
-Dicho curso será dictado en el mes de marzo en conjunto con el Dpto. de Informática de la Facultad de Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste.
+Dicho curso será dictado en el mes de agosto en conjunto con el Dpto. de Informática de la Facultad de Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste.
 
 ## Objetivos
 Al finalizar el curso, el participante deberá ser capaz de:
@@ -18,7 +18,7 @@ Al finalizar el curso, el participante deberá ser capaz de:
 ## Instructores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
-* Dra. en Recursos Naturales: **Roxana Noelia Villafañe** 
+
 
 ## Metodología
 Cada encuentro constará de la exposición de contenidos teóricos y luego se realizarán prácticas para aplicar dichos contenidos. El curso tendrá un mínimo de 6 y un máximo de 15 asistentes, para asegurar que los estudiantes puedan tener suficiente interacción con los instructores y otros estudiantes, y de esta manera facilitar el aprendizaje y el trabajo colaborativo.
@@ -34,7 +34,7 @@ Manipulación básica de datos: paquetes tidyr y dplyr. Funciones gather(), spre
 A medida que se avance con el contenido teórico se subirá la práctica correspondiente.
 
 ## Destinatarios
-Estudiantes y profesionales de Sistemas, Biología, Ciencias Químicas, Agronomía y todo aquel que tenga interés en utilizar el lenguaje R con el objetivo de visualizar y realizar una exploración básica de datos.
+Estudiantes y profesionales de Sistemas y todo aquel que tenga interés en utilizar el lenguaje R con el objetivo de visualizar y realizar una exploración básica de datos.
 
 ## Duración
 Dos encuentros de 3 horas cada uno. 
