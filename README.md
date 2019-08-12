@@ -27,8 +27,7 @@ Cada encuentro constará de la exposición de contenidos teóricos y luego se re
 **Primer encuentro**: Instalación de R y RStudio. ¿Qué es R? Principales características del lenguaje. Aplicaciones y casos de uso. Entorno de trabajo de Rstudio. Elementos de la sintaxis de R. Tipos de datos: datos atómicos, vectores, matrices, dataframes, factores y listas. Operadores. Estructuras de control: if, while, repeat. Funciones. Scripts en R y flujo de trabajo.
 Paquetes: ¿qué es un paquete? Para que sirven y cómo utilizarlos. Importación de datos en R desde diferentes fuentes. Exploración básica de datos. Ejercicios Prácticos.
 
-**Segundo encuentro**: Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
-Manipulación básica de datos: paquetes tidyr y dplyr. Funciones gather(), spread(), unite(), filter(), select(), entre otras. El uso del operador pipe (%>%). Ejercicios Prácticos.
+**Segundo encuentro**: Manipulación básica de datos: paquetes tidyr y dplyr. Funciones gather(), spread(), unite(), filter(), select(), entre otras. El uso del operador pipe (%>%). Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
 
 ## Ejercicios Prácticos
 A medida que se avance con el contenido teórico se subirá la práctica correspondiente. Para realizar la parte práctica se utilizará el paquete datos, el cual consiste en un conjunto de datasets del libro R4DSes.
