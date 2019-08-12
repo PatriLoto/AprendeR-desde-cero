@@ -48,7 +48,7 @@ Dos encuentros de 3 horas cada uno.
 
 ## Referencias
 *	Wickham, H; Grolemund, G. (2017) R for data science. Import, Tidy, Transform, Visualize, and Model Data. O’Reilly. 
-  Disponible en: **http://r4ds.had.co.nz/** 
+  Disponible en: **https://es.r4ds.hadley.nz/** **https://r4ds.had.co.nz/**
 *	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. 
   Disponible en: **https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf**
 *	Grolemund, G. (2014) Hands on Programming with R. Write your own functions and simulations. O’Reilly
