@@ -43,7 +43,8 @@ Dos encuentros de 3 horas cada uno.
 *	**Para descargar Rstudio:** https://www.rstudio.com/products/rstudio/download
 * **Cheatsheets de Rstudio:** https://www.rstudio.com/resources/cheatsheets/
 * **Webinarios de Rstudio:** https://resources.rstudio.com/
-* **Dataset:** http://faculty.washington.edu/kenrice/heartgraphs/
+* **Dataset:** https://github.com/cienciadedatos/datos
+* **Para seguir aprendiendo:** http://faculty.washington.edu/kenrice/heartgraphs/
 
 ## Referencias
 *	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. 
