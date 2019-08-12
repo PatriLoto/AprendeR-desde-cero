@@ -17,6 +17,7 @@ Al finalizar el curso, el participante deberá ser capaz de:
 ## Instructores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
+* Dra. en Recursos Naturales: **Roxana Noelia Villafañe **
 
 
 ## Metodología
