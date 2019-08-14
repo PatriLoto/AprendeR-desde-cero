@@ -17,7 +17,7 @@ Al finalizar el curso, el participante deberá ser capaz de:
 ## Instructores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
-* Dra. en Recursos Naturales: **Roxana Noelia Villafañe **
+* Dra. en Recursos Naturales: **Roxana Noelia Villafañe**
 
 
 ## Metodología
@@ -30,7 +30,7 @@ Paquetes: ¿qué es un paquete? Para que sirven y cómo utilizarlos. Importació
 **Segundo encuentro**: Manipulación básica de datos: paquetes tidyr y dplyr. Funciones filter(), select(), arrange(), mean(), mutate(), gather(), spread(), entre otras. El uso del operador pipe (%>%). Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
 
 ## Ejercicios Prácticos
-A medida que se avance con el contenido teórico se subirá la práctica correspondiente. Para realizar la parte práctica se utilizará el paquete **datos** , el cual consiste en un conjunto de datasets del libro **R para Ciencia de Datos**.
+A medida que se avance con el contenido teórico se subirá la práctica correspondiente. Para realizar la parte práctica se utilizará el paquete **datos**, el cual consiste en un conjunto de datasets del libro **R para Ciencia de Datos**.
 
 ## Destinatarios
 Estudiantes y profesionales de Sistemas y todo aquel que tenga interés en utilizar el lenguaje R con el objetivo de visualizar y realizar una exploración básica de datos.
