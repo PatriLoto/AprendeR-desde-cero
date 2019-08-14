@@ -39,7 +39,7 @@ Estudiantes y profesionales de Sistemas y todo aquel que tenga interés en utili
 Dos encuentros de 3 horas cada uno. 
 
 ## Recursos 
-* **Última versión de R:** [ https://cran.r-project.org/bin/windows/base/  ]
+* **Última versión de R:**  https://cran.r-project.org/bin/windows/base/ 
 *	**Para descargar Rstudio:** https://www.rstudio.com/products/rstudio/download
 * **Cheatsheets de Rstudio:** https://www.rstudio.com/resources/cheatsheets/
 * **Webinarios de Rstudio:** https://resources.rstudio.com/
