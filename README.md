@@ -11,8 +11,8 @@ Al finalizar el curso, el participante deberá ser capaz de:
 *	Reconocer las estructuras de datos y de control básicas de R y utilizar la más adecuada para cada situación.
 *	Instalar y utilizar paquetes, además de conocer la organización de  paquetes en R.
 *	Comprender la conveniencia de utilizar scripts y ser capaz de elaborarlos y utilizarlos.
-*	Elaborar gráficos utilizando el paquete ggplot2 y plotly.
-*	Manipular de manera básica un conjunto de  datos: lectura, limpieza y ordenamiento de datos.
+* Manipular de manera básica un conjunto de  datos: lectura, limpieza y ordenamiento de datos.
+* Elaborar gráficos utilizando el paquete ggplot2 y plotly
 
 ## Instructores
 
