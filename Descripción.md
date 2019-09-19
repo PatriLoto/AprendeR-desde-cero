@@ -1,6 +1,6 @@
 # AprendeR desde cero
 
-# Descripción
+# Introducción
 Se propone un curso introductorio a R, el mismo se apoyará en el GUI RStudio v1.2.1335 y en un conjunto de paquetes tales como dplyr, ggplot2, plotly, rmarkdown, entre otros.
 Dicho curso será dictado en el mes de agosto en conjunto con el Dpto. de Informática de la Facultad de Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste.
 
@@ -17,8 +17,6 @@ Al finalizar el curso, el participante deberá ser capaz de:
 ## Instructores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
-* Dra. en Recursos Naturales: **Roxana Noelia Villafañe**
-
 
 ## Metodología
 Cada encuentro constará de la exposición de contenidos teóricos y luego se realizarán prácticas para aplicar dichos contenidos. El curso tendrá un mínimo de 6 y un máximo de 15 asistentes, para asegurar que los estudiantes puedan tener suficiente interacción con los instructores y otros estudiantes, y de esta manera facilitar el aprendizaje y el trabajo colaborativo.
